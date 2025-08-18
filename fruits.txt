@@ -2,3 +2,6 @@
 "dragon fruits" 
 "figs"   # add another line to fruits.txt
 "figs" 
+"dragon fruits" 
+"dragon fruits" 
+"Hello Git" 
