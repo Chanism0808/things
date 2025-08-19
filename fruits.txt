@@ -2,4 +2,11 @@
 "dragon fruits" 
 "figs"   # add another line to fruits.txt
 "figs" 
+<<<<<<< HEAD
 bad fruit
+=======
+"dragon fruits" 
+"dragon fruits" 
+"Hello Git" 
+hello 
+>>>>>>> 7ff514aeb1a1ea69c633169c32cee1ff9dfc320e
